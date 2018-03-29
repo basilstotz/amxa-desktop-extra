@@ -1,0 +1,5 @@
+amxa-desktop-extra (1.0-1) unstable; urgency=low
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Basil Stotz <stotz@amxa.ch>  Thu, 29 Mar 2018 19:20:21 +0200

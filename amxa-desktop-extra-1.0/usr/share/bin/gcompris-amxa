@@ -1,0 +1,8 @@
+#!/bin/sh
+if ! test -d $HOME/.config/gcompris; then
+   cp -r /etc/gcompris $HOME/.config/.
+fi
+
+/usr/games/gcompris --disable-config
+
+exit
