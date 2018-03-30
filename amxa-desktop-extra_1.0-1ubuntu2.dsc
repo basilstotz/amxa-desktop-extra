@@ -2,7 +2,7 @@ Format: 1.0
 Source: amxa-desktop-extra
 Binary: amxa-desktop-extra
 Architecture: all
-Version: 1.0-1ubuntu1
+Version: 1.0-1ubuntu2
 Maintainer: Basil Stotz <stotz@amxa.ch>
 Homepage: <insert the upstream URL, if relevant>
 Standards-Version: 3.9.4
@@ -10,8 +10,8 @@ Build-Depends: debhelper (>= 8.0.0)
 Package-List: 
  amxa-desktop-extra deb unknown optional
 Checksums-Sha1: 
- de16b27fbbed85e7a894ef5489d84de7c1c63f34 56651 amxa-desktop-extra_1.0-1ubuntu1.tar.gz
+ bf83189bd78ea291182b4d009043c28464fe7a7c 56655 amxa-desktop-extra_1.0-1ubuntu2.tar.gz
 Checksums-Sha256: 
- 0d3de796dc9254718652d6ef9ad80238d55a9e43333ffb2d67000faca13f8e2d 56651 amxa-desktop-extra_1.0-1ubuntu1.tar.gz
+ 90aed2c138b0b6df252d89b0edacfc4fdb525e5e7005c17e74a43b49bba8340a 56655 amxa-desktop-extra_1.0-1ubuntu2.tar.gz
 Files: 
- 4fd74fb7850cf810da0d4356ae805d80 56651 amxa-desktop-extra_1.0-1ubuntu1.tar.gz
+ 76a0e2029d0696cf70263b260c2f6fc5 56655 amxa-desktop-extra_1.0-1ubuntu2.tar.gz
