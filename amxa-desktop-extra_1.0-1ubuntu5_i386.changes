@@ -1,0 +1,32 @@
+Format: 1.8
+Date: Sat, 31 Mar 2018 15:47:40 +0200
+Source: amxa-desktop-extra
+Binary: amxa-desktop-extra
+Architecture: source all
+Version: 1.0-1ubuntu5
+Distribution: UNRELEASED
+Urgency: medium
+Maintainer: Basil Stotz <stotz@amxa.ch>
+Changed-By: Stotz Basil <stotz.basil@basil-lap.basel.opinsys.fi>
+Description: 
+ amxa-desktop-extra - <insert up to 60 chars description>
+Changes: 
+ amxa-desktop-extra (1.0-1ubuntu5) UNRELEASED; urgency=medium
+ .
+   * initial
+   * again
+   * fixed install
+   * fixed postinst
+   * remove http-filter
+Checksums-Sha1: 
+ cd11154ea0c13e4728e63137808f67329e6300d6 633 amxa-desktop-extra_1.0-1ubuntu5.dsc
+ 2834e783e2094fc667950e9705004059fefc3fcd 56400 amxa-desktop-extra_1.0-1ubuntu5.tar.gz
+ 7420cdd1d436037b2c79069c7bfd02010f2c213b 33532 amxa-desktop-extra_1.0-1ubuntu5_all.deb
+Checksums-Sha256: 
+ bef60025ec93b8c79214433fad01ab45b403c4599970303e0d00e1865b27f037 633 amxa-desktop-extra_1.0-1ubuntu5.dsc
+ a1e53284d9fab3df7c091e95ff39263f8e12fd28b5bdd17d8300e6c641c03489 56400 amxa-desktop-extra_1.0-1ubuntu5.tar.gz
+ 910a06275eaa6242e853b20b32800e629e2ac5bc325444d7618c2ca57bcd7e74 33532 amxa-desktop-extra_1.0-1ubuntu5_all.deb
+Files: 
+ e9559b2a2c5e4fdf6e5034a05501f058 633 unknown optional amxa-desktop-extra_1.0-1ubuntu5.dsc
+ e3b677fab299a8fb4eac5834bf6c18c5 56400 unknown optional amxa-desktop-extra_1.0-1ubuntu5.tar.gz
+ 1f3a557af0fd8d9fcd7adbe4c116d3b7 33532 unknown optional amxa-desktop-extra_1.0-1ubuntu5_all.deb

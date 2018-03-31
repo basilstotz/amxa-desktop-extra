@@ -27,7 +27,7 @@ case "$1" in
         update-rc.d googlesafesearch defaults
       fi
 
-      chmod +s /usr/bin/amxa-client-http-filter      
+#      chmod +s /usr/bin/amxa-client-http-filter      
 
 
 
