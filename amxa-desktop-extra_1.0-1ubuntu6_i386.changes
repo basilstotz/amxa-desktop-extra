@@ -1,0 +1,33 @@
+Format: 1.8
+Date: Sat, 31 Mar 2018 15:52:12 +0200
+Source: amxa-desktop-extra
+Binary: amxa-desktop-extra
+Architecture: source all
+Version: 1.0-1ubuntu6
+Distribution: UNRELEASED
+Urgency: medium
+Maintainer: Basil Stotz <stotz@amxa.ch>
+Changed-By: Stotz Basil <stotz.basil@basil-lap.basel.opinsys.fi>
+Description: 
+ amxa-desktop-extra - <insert up to 60 chars description>
+Changes: 
+ amxa-desktop-extra (1.0-1ubuntu6) UNRELEASED; urgency=medium
+ .
+   * initial
+   * again
+   * fixed install
+   * fixed postinst
+   * remove http-filter
+   * removed all http-filter bins
+Checksums-Sha1: 
+ e36883f79fa67616b64b69d1b1fa8d92a794cf85 633 amxa-desktop-extra_1.0-1ubuntu6.dsc
+ e250cdc731755001d7556783106900a0e2687b2f 53078 amxa-desktop-extra_1.0-1ubuntu6.tar.gz
+ 8361de24e8735930846c3aa2b7df09a3d2a70942 33540 amxa-desktop-extra_1.0-1ubuntu6_all.deb
+Checksums-Sha256: 
+ ddb6d1ed39ec78c9593147e4c9a0826a4591799b598106fe9c44fdda11add596 633 amxa-desktop-extra_1.0-1ubuntu6.dsc
+ 400f7803497cffa52931533dc5520e87ccebfe82e85198256f33790960acbacd 53078 amxa-desktop-extra_1.0-1ubuntu6.tar.gz
+ 3e67d1dc05eba5b1b4a70b19e821fbcf6cd1418260edb7b4c5d49804008c56ef 33540 amxa-desktop-extra_1.0-1ubuntu6_all.deb
+Files: 
+ b9059f4910dcf69798bf8980700c8c73 633 unknown optional amxa-desktop-extra_1.0-1ubuntu6.dsc
+ 3b6ffb7a058eec24dc79d1c2ebc5cabc 53078 unknown optional amxa-desktop-extra_1.0-1ubuntu6.tar.gz
+ d088dbd3df2e8e6193fbcf5f09ef2272 33540 unknown optional amxa-desktop-extra_1.0-1ubuntu6_all.deb

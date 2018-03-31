@@ -1,12 +1,13 @@
-amxa-desktop-extra (1.0-1ubuntu5) UNRELEASED; urgency=medium
+amxa-desktop-extra (1.0-1ubuntu6) UNRELEASED; urgency=medium
 
   * initial
   * again
   * fixed install
   * fixed postinst
   * remove http-filter
+  * removed all http-filter bins
 
- -- Stotz Basil <stotz.basil@basil-lap.basel.opinsys.fi>  Sat, 31 Mar 2018 15:47:40 +0200
+ -- Stotz Basil <stotz.basil@basil-lap.basel.opinsys.fi>  Sat, 31 Mar 2018 15:52:12 +0200
 
 amxa-desktop-extra (1.0-1) unstable; urgency=low
 
